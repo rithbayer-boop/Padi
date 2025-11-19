@@ -1,4 +1,6 @@
 streamlit
 numpy
 Pillow
-tflite-runtime==2.14.0
+tensorflow==2.16.1
+onnxruntime
+protobuf==3.20.3
